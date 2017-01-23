@@ -1,6 +1,6 @@
 # CMF
 Data Analysis Course
-## CIAN_project
+## CIAN project
 parsing and data analysis of [cian.ru](http://www.cian.ru/)
 
 ## Что ещё можно и нужно сделать:
